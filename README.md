@@ -1,2 +1,1 @@
-# Inkyz
-my github profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/305829524547960835?theme:light&bg=000000&animated=false&hideDiscrim=true&borderRadius=20px&idleMessage=Yoo)](https://discord.com/users/305829524547960835)
