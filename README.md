@@ -5,7 +5,7 @@ I'm a passionate developer with a love for coding and learning new technologies.
 
 Here are some of my projects:
 
-- [Project 1](https://github.com/InkyzProd/toksik)
+- [Toksik](https://github.com/InkyzProd/toksik)
 - ETC
 
 ## Github Stats
