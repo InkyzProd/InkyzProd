@@ -1,10 +1,18 @@
-# Hi
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+# Hi, I'm Inkyz 👋
+I'm a passionate developer with a love for coding and learning new technologies. In my free time, I enjoy contributing to open-source projects and exploring new programming languages.
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+## My Projects
 
+Here are some of my projects:
+
+- [Project 1](https://github.com/InkyzProd/toksik)
+- ETC
+
+## Github Stats
 ![](https://raw.githubusercontent.com/InkyzProd/InkyzProds/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/InkyzProd/InkyzProds/output/generated/languages.svg)
 
-</a>
+## Connect with Me
+
+- [GitHub](https://github.com/InkyzProd)
+- [Website](https://inkyz.xyz)
