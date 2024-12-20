@@ -8,5 +8,5 @@ I'm a passionate developer with a love for coding and learning new technologies.
 
 ## Connect with Me
 
-[![Static Badge](https://img.shields.io/badge/pixelnet%20community-blue?logo=discord&label=discord)](https://discord.com/invite/QFQACxccmv)
+[![Static Badge](https://img.shields.io/badge/Sphinx-blue?logo=discord&label=discord)](https://discord.com/invite/QFQACxccmv)
 [![Static Badge](https://img.shields.io/badge/website-inkyz.xyz-blue?label=Site)](https://inkyz.xyz)
