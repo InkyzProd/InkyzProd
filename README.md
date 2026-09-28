@@ -1,12 +1,39 @@
 # Hi, I'm Inkyz 👋
-I'm a passionate developer with a love for coding and learning new technologies. In my free time, I enjoy contributing to open-source projects and exploring new programming languages.
 
-## Github Stats
-[![stats](https://gh.inkyzprod.my.id/api?username=InkyzProd&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=discord_old_blurple)](https://inkyzprod.my.id)
+**Backend developer** focused on Node.js, Go, and self-hosted Linux systems. 
+I build things from primitives — Discord bots from raw WebSocket, APIs with 
+Express and Hono, and automation in Go when Node isn't the right shape.
 
-[![langs](https://gh.inkyzprod.my.id/api/top-langs?username=InkyzProd&langs_count=20&hide=mdx,xslt,makefile,handlebars,nix,dockerfile&layout=compact&theme=discord_old_blurple)](https://inkyzprod.my.id)
+📍 Indonesia · Working remotely · Open to freelance & collaboration
 
-## Connect with Me
+## 🛠 Tech Stack
 
-[![Static Badge](https://img.shields.io/badge/OBLX-blue?logo=discord&label=discord)](https://discord.com/invite/QFQACxccmv)
-[![Static Badge](https://img.shields.io/badge/website-inkyzprod.my.id-blue?label=Site)](https://inkyzprod.xyz)
+**Languages & Runtimes**  
+[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,go,python,lua)](https://inkyz.id)
+
+**Backend & Infrastructure**  
+[![Backend](https://skillicons.dev/icons?i=express,mysql,cloudflare,linux,docker,nix,git)](https://inkyz.id)
+
+**Frontend & Creative**  
+[![Frontend](https://skillicons.dev/icons?i=svelte,tailwind,html,css)](https://inkyz.id)
+
+## 📦 Published
+
+- **[Toksik](https://www.npmjs.com/package/toksik)** — lightweight badwords 
+  filter for JavaScript, published on npm
+
+## 📊 Activity
+
+Most of my work is closed-source — client projects, Discord bot infrastructure, 
+and community tooling.
+
+## 🔗 Connect with Me
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/inkyz.id)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/305829524547960835)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InkyzProd)
+[![Website](https://img.shields.io/badge/Portfolio-inkyz.id-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://inkyz.id)
+
+---
+
+*More available on request.*
